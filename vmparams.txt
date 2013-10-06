@@ -1,0 +1,7 @@
+-server
+-Dorientdb.config.file=C:\data\releases\orientdb-1.6.0-SNAPSHOT\config/orientdb-server-config.xml
+-Dorientdb.www.path=C:\data\releases\orientdb-1.6.0-SNAPSHOT/www
+-DORIENTDB_HOME=C:\data\releases\orientdb-1.6.0-SNAPSHOT
+-Djava.util.logging.config.file=config/orientdb-server-log.properties
+-Dcache.level1.enabled=false
+-Dprofiler.enabled=true

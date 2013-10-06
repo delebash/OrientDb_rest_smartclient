@@ -1,0 +1,4 @@
+In orient studio run
+ALTER CLASS Contact strictMODE true
+
+per each class to enable schema-full mode
